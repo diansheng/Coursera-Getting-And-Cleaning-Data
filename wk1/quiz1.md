@@ -1,0 +1,1 @@
+Someone has published a pretty neat answer at [http://xmuxiaomo.github.io/2015/07/10/Getting-and-Cleaning-Data-Quiz-1/](http://xmuxiaomo.github.io/2015/07/10/Getting-and-Cleaning-Data-Quiz-1/). It is a pretty good reference.
